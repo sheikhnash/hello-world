@@ -1,2 +1,5 @@
 # hello-world
-My-1st-Repo
+
+Hello there,
+
+Nash here, I like java script and C programming!
